@@ -157,7 +157,14 @@
 ## Fucntions of the Spleen
 
 ## Indications for Splenectomy
-
+- Baterial: typhoid, TB,septicaemia, leptospirosis, syphilis, brucella
+- Viral:
+- Protozoan: 
+- Deposition:
+- Congestion:
+- Haematological:
+- Infarction:
+- Solitary:
 
 ## Causes of Acute Pancreatitis (10)
 - Gall stones
